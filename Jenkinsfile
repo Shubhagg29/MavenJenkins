@@ -3,7 +3,11 @@ pipeline {
     stages {
         stage('One') {
                 steps {
+<<<<<<< HEAD
                         echo 'Hi, this is Maven  from Git'
+=======
+                        echo 'Hi, This is Starting for jenkins learning'
+>>>>>>> 150ca492cd9e538ce6d670d4d839e0455872f274
 			
                 }
         }
